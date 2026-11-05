@@ -1,0 +1,50 @@
+main {
+  background-color: #faf0ca;
+  color: #0d3b66;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+  background-color: aliceblue;
+  border-radius: 25px;
+  margin: 25px;
+  width: 500px;
+  height: 275px;
+  padding: 20px;
+}
+
+.sale-price {
+  color: green;
+  font-size: 20pt;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.retail-price {
+  color: gray;
+  font-size: 15pt;
+}
+
+button {
+  border-radius: 15px;
+  width: 90%;
+  height: 45px;
+  box-sizing: border-box;
+  background-color: #f4d35e;
+  color: #0d3b66;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+button:hover {
+  background-color: #faf0ca;
+  cursor: pointer;
+}
